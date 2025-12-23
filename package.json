@@ -1,6 +1,6 @@
 {
   "name": "auto-watch-run",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Watch files and automatically run commands with per-pattern configuration, sequential or parallel.",
   "main": "index.js",
   "bin": {
@@ -9,19 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "watch",
-    "automation",
-    "npm",
-    "cli",
-    "dev-tools",
-    "file-watcher",
-    "watcher",
-    "on-change",
-    "save-and-run",
-    "build-tools",
-    "developer-tools"
-  ],
+  "keywords": ["watch", "automation", "npm", "cli", "dev-tools","file-watcher","watcher","on-change","save-and-run","build-tools","developer-tools"],
   "author": "cinfinit",
   "license": "MIT",
   "dependencies": {
