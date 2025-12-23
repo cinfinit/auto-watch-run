@@ -1,5 +1,7 @@
 # **auto-watch-run** 👀🏃‍♂️
 
+ [![NPM version](https://img.shields.io/npm/v/auto-watch-run.svg?style=flat)](https://www.npmjs.com/package/auto-watch-run) [![NPM downloads](https://img.shields.io/npm/dm/auto-watch-run.svg?style=flat)](https://npmjs.org/package/auto-watch-run)
+
 > “Why press buttons when you can let your computer do it for you?”
 
 **auto-watch-run** is a small but mighty CLI that watches your files and automatically runs commands whenever they change. Think of it as your **dev autopilot** — linting, typechecking, testing, generating code, updating docs… all without touching a key (except to save files, obviously).  Supports **per-pattern commands**, **parallel or sequential execution**, and **dry-run mode**.

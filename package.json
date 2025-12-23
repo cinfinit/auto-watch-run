@@ -1,6 +1,6 @@
 {
   "name": "auto-watch-run",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Watch files and automatically run commands with per-pattern configuration, sequential or parallel.",
   "main": "index.js",
   "bin": {
